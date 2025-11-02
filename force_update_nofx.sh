@@ -29,7 +29,7 @@ PROJECT_DIR="/opt/nofx"
 BACKUP_DIR="/opt/nofx_backups"
 UPDATE_LOG="/var/log/nofx_update.log"
 NOFX_USER="nofx"
-YOUR_DOMAIN="http://109.176.19.12:3000"  # 用户可以修改的域名变量
+YOUR_DOMAIN=""  # 用户可以修改的域名变量
 
 # ================================
 # 检查 root 权限
