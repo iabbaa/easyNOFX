@@ -37,7 +37,7 @@ ASTER 用户注意:
 *本程序仅支持 Ubuntu24.04系统*
 
 ```
-wget https://raw.githubusercontent.com/ShenXuGongZi/easyNOFX/refs/heads/main/install_nofx_ubuntu.sh  && chmod +x install_nofx_ubuntu.sh && bash install_nofx_ubuntu.sh `
+wget https://raw.githubusercontent.com/ShenXuGongZi/easyNOFX/refs/heads/main/install_nofx_ubuntu.sh  && chmod +x install_nofx_ubuntu.sh && bash install_nofx_ubuntu.sh 
 ```
 
 **管理脚本**
