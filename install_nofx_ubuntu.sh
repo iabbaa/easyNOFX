@@ -449,7 +449,7 @@ clone_project() {
     fi
     
     print_info "正在从 GitHub 克隆项目..."
-    print_info "仓库: https://github.com/tinkle-community/nofx.git"
+    print_info "仓库: https://github.com/zhouyongyou/nofx.git"
     
     # 克隆项目（以 nofx 用户身份）
     cd /opt
